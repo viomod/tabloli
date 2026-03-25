@@ -1,10 +1,8 @@
-<h1 align="center">Tabliss</h1>
+<h1 align="center">Tabloli</h1>
 
-<p align="center">A beautiful, customisable New Tab page for Firefox and Chrome.</p>
+<p align="center">A beautiful fork of Tabliss, for Firefox and Chrome.</p>
 
-![Tabliss Screenshot](screenshot.png)
-
-<p align="center"><a href="https://tabliss.io">https://tabliss.io</a></p>
+![Tabloli Screenshot](screenshot.png)
 
 ## Usage
 
